@@ -1,0 +1,15 @@
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).csproj.AssemblyReference.cache
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).GeneratedMSBuildEditorConfig.editorconfig
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).AssemblyInfoInputs.cache
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).AssemblyInfo.cs
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).csproj.CoreCompileInputs.cache
+F:\تمربن\(Tamrin)\(Tamrin)\bin\Debug\net7.0\(Tamrin).exe
+F:\تمربن\(Tamrin)\(Tamrin)\bin\Debug\net7.0\(Tamrin).deps.json
+F:\تمربن\(Tamrin)\(Tamrin)\bin\Debug\net7.0\(Tamrin).runtimeconfig.json
+F:\تمربن\(Tamrin)\(Tamrin)\bin\Debug\net7.0\(Tamrin).dll
+F:\تمربن\(Tamrin)\(Tamrin)\bin\Debug\net7.0\(Tamrin).pdb
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).dll
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\refint\(Tamrin).dll
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).pdb
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\(Tamrin).genruntimeconfig.cache
+F:\تمربن\(Tamrin)\(Tamrin)\obj\Debug\net7.0\ref\(Tamrin).dll
